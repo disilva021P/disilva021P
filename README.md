@@ -1,30 +1,19 @@
 ### Hi there 👋
-# Welcome!
+# Welcome to my profile!
 
  
 
-## I'm (SEU NOME)!
+## I'm Diogo!
 
  
 
-:computer: I'm Front-End Developer!
+:computer: I'm Back-End Developer!
 
 :house_with_garden: I’m from Portugal.
 
-:books: I’m currently learning everything.
+:books: I’m currently learning everything trying to improve in every aspect.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
-<!--
-**disilva021P/disilva021P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:outbox_tray: 2024 Goals: create new projects and learn a lot.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my final project in school
+- 🌱 I’m currently learning web development/UI
